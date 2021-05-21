@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.imgs{
+    background-image: url("./photos/main.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+}
+.row{
+    height: 100%;
+}
+a{
+    text-decoration: none !important;
+    color: aliceblue !important;
+    font-weight: bold;
+}
+button{
+    background-color: #008891;
+    border: none;
+    padding: 8px;
+    float: right;
+}
+.con{
+    display:block;
+    justify-content: center;
+    align-items: center;
+
+}
+h1,h2{
+    color:#008891;
+    font-weight: 900;
+    font-family:Courgette;
+    font-size:xx-large;
+}
