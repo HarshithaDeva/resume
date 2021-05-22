@@ -6,6 +6,7 @@
 .navbar a{
     text-decoration: none  !important;
     color: rgb(20, 19, 19);
+    font-weight: bold;
 }
 .card a{
     color: white;
